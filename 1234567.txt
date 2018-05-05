@@ -1,1 +1,5 @@
 My second text txt file, from Ubuntu 18.04LTS.
+
+Add some new info.
+
+In order to tset staged, modify this file once again.
